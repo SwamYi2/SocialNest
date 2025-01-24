@@ -17,6 +17,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>social-nest-post</module>
+        <module>social-nest-user</module>
     </modules>
 
     <properties>
